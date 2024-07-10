@@ -7,3 +7,4 @@ Commit to repository
 2) create commit
 ```git commit -m 'тут месседж для комміту'```
 3) Push data to GitHub
+```git push```
